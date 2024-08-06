@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Dmytro Noviskyi, a backend developer from Ukraine. 🐍<br>I specialize in Django and have a solid understanding of JavaScript.<br>When I'm not coding, I enjoy playing hockey . 🏒<br>Feel free to check out my repositories and projects here on GitHub!<br>You can write me on email ✉dimanova14082010@gmail.com✉
+Hello! I'm Dmytro Noviskyi, a backend developer from Ukraine. 🐍<br>I specialize in Django and have a solid understanding of JavaScript.<br>When I'm not coding, I enjoy playing hockey . 🏒<br>Feel free to check out my repositories and projects here on GitHub!<br>You can write me on email ✉dimanova14082010@gmail.com✉<br>My second github [dimanova55 ](https://github.com/dimanova57/)
 
 
 ## 🌐 Socials:
